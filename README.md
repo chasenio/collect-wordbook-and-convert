@@ -5,7 +5,8 @@
 
 
 **Source List:**
-- [计算机专用英语词汇1500词][1], by [joojfork][2]
+- [x] [计算机专用英语词汇1500词][1], by [joojfork][2]
+- [ ] [computerese-cross-references][5], by [EarsEyesMouth][2], 暂未支持
 
 **File list:**
 
@@ -27,3 +28,4 @@ If you like this project, please consider supporting me for coffee ☕️
 [2]: https://github.com/joojfork
 [3]: computer-specific-english.txt
 [4]: computer-specific-english.chinese.txt
+[5]: https://github.com/EarsEyesMouth/computerese-cross-references

@@ -6,7 +6,8 @@
 
 **Source List:**
 - [x] [计算机专用英语词汇1500词][1], by [joojfork][2]
-- [ ] [computerese-cross-references][5], by [EarsEyesMouth][2], 暂未支持
+- [ ] [computerese-cross-references][5], by [EarsEyesMouth][7], 暂未支持
+- [ ] [IT Dict 计算机英汉词汇表][6], by [zionfuo][8], 暂未支持
 
 **File list:**
 
@@ -29,3 +30,6 @@ If you like this project, please consider supporting me for coffee ☕️
 [3]: computer-specific-english.txt
 [4]: computer-specific-english.chinese.txt
 [5]: https://github.com/EarsEyesMouth/computerese-cross-references
+[6]: https://github.com/zionfuo/itdict
+[7]: https://github.com/EarsEyesMouth
+[8]: https://github.com/zionfuo

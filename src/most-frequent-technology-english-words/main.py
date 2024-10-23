@@ -4,6 +4,7 @@ import yaml
 from typing import List
 
 from word.data import Word
+from word.data import Store
 
 """
 https://github.com/Wei-Xia/most-frequent-technology-english-words
@@ -24,6 +25,7 @@ def save_with_arr(file: str, arr: List):
 def main(path: str):
     """读取指定目录下所有文件"""
     words = set()
+    store = Store()
     for file in os.listdir(path):
         file_path = os.path.join(path, file)
         with open(file_path, 'r') as fp:
@@ -37,8 +39,10 @@ def main(path: str):
                 note=data['note'],
             )
             words.add(word.word)
+            store.add(word)
     save_with_arr(f'{path}.txt', list(words))
 
+    store.dump(f'{path}.yaml')
 
 if __name__ == '__main__':
     main()

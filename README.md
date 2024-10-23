@@ -1,21 +1,18 @@
-# Computer Specific English
+## Collect wordbook and convert
 
-> [!NOTE] 
-> 这是一个计算机专用英语词汇表，包含1500个词汇,它是从 [计算机专用英语词汇1500词][1] 中提取的。同时包含处理脚本.
+
+这是一个将英语词汇表转换为背单词 App 所需的格式的项目, 包含处理脚本。词汇表均来自网络。
 
 
 **Source List:**
 - [x] [计算机专用英语词汇1500词][1], by [joojfork][2]
-- [ ] [computerese-cross-references][5], by [EarsEyesMouth][7], 暂未支持
-- [ ] [IT Dict 计算机英汉词汇表][6], by [zionfuo][8], 暂未支持
+- [x] [computerese-cross-references][5], by [EarsEyesMouth][7]
+- [ ] [IT Dict 计算机英汉词汇表][6], by [zionfuo][8] 暂未支持
 
-**File list:**
 
-| File                                   | Word |
-|----------------------------------------|------|
-| [computer-specific-english.txt][3]     | 1695 |
-| [computer-specific-english.chinese][4] | 1695 |
-
+其他有趣的项目, 例如:
+- [x] [Simple-IT-English][10], 有 anki 卡片
+- [x] [most-frequent-technology-english-words][11], 有 anki 卡片, [Web Page][12]
 
 ## Support
 
@@ -33,3 +30,7 @@ If you like this project, please consider supporting me for coffee ☕️
 [6]: https://github.com/zionfuo/itdict
 [7]: https://github.com/EarsEyesMouth
 [8]: https://github.com/zionfuo
+[9]: https://github.com/pwstrick/daily/blob/master/book/computer/1.md
+[10]: https://github.com/kkyon/Simple-IT-English
+[11]: https://github.com/Wei-Xia/most-frequent-technology-english-words
+[12]: https://learn-english.dev/

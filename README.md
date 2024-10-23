@@ -7,7 +7,7 @@
 **Source List:**
 - [x] [计算机专用英语词汇1500词][1], by [joojfork][2]
 - [x] [computerese-cross-references][5], by [EarsEyesMouth][7]
-- [ ] [IT Dict 计算机英汉词汇表][6], by [zionfuo][8] 暂未支持
+- [x] [IT Dict 计算机英汉词汇表][6], by [zionfuo][8] 暂未支持
 
 
 其他有趣的项目, 例如:

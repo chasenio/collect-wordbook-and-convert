@@ -1,19 +1,8 @@
 import click
 
-from typing import List
 
 from word.data import Word
-
-
-def save_with_arr(file: str, arr: List):
-    if not arr:
-        return
-    with open(file, 'w') as f:
-        for word in arr:
-            f.write(f"{word}\n")
-        f.close()
-
-    print(f"process done, new file: {file}")
+from word.utils import save_with_arr
 
 
 @click.command()

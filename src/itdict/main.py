@@ -1,22 +1,11 @@
-import os
 import click
-import yaml
-from typing import List
 
 from word.data import Word
+from word.utils import save_with_arr
 
 """
 https://github.com/zionfuo/itdict
 """
-
-
-def save_with_arr(file: str, arr: List):
-    with open(file, 'w') as f:
-        for word in arr:
-            f.write(f"{word}\n")
-        f.close()
-
-    print(f"process done, new file: {file}")
 
 
 @click.command()

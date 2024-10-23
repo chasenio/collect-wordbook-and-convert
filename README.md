@@ -4,10 +4,13 @@
 这是一个将英语词汇表转换为背单词 App 所需的格式的项目, 包含处理脚本。词汇表均来自网络。
 
 
+> [!IMPORTANT]  
+> 本项目不是工程代码, 请不要作为工程示例。
+
 **Source List:**
 - [x] [计算机专用英语词汇1500词][1], by [joojfork][2]
 - [x] [computerese-cross-references][5], by [EarsEyesMouth][7]
-- [x] [IT Dict 计算机英汉词汇表][6], by [zionfuo][8] 暂未支持
+- [x] [IT Dict 计算机英汉词汇表][6], by [zionfuo][8] 部分支持
 
 
 其他有趣的项目, 例如:
